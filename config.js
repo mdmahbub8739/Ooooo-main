@@ -36,8 +36,8 @@ window.OMNIFLIX_CONFIG = {
   //     for your own deployments of workers/worker-animesalt.js & worker-toonstream.js
   //     when you want to fully self-host.
   ANIME_WORKERS: [
-    { name: 'AnimeSalt',  url: 'https://animesalt.pasamaraooo49.workers.dev/',         lang: 'sub', api: 'url'    },
-    { name: 'ToonStream', url: 'https://tstream.pasamaraooo49.workers.dev/', lang: 'dub', api: 'url' },
-    { name: 'AnimeDekho', url: 'https://dekho.pasamaraooo49.workers.dev/', lang: 'sub', api: 'url' },
+    { name: 'AnimeSalt',  url: 'https://a.pasamaraooo49.workers.dev/',         lang: 'sub', api: 'url'    },
+    { name: 'ToonStream', url: 'https://ts.pasamaraooo49.workers.dev/', lang: 'dub', api: 'url' },
+    { name: 'AnimeDekho', url: 'https://ad.pasamaraooo49.workers.dev/', lang: 'sub', api: 'url' },
   ],
 };
